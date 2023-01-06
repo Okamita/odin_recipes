@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+
+div#title{
+    font-family: 'Brush Script MT';
+    padding:10px 20px;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 10px;
+    text-shadow: 2px;
+}
+
+p.we{
+    margin-right: 5px;
+    text-align: justify;
+    margin-bottom: 150px;
+}
+
+
+button{
+    background-color: rgb(221, 122, 122);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+a {
+    color:white;
+    font-weight: bold;
+}
