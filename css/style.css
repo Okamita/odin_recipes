@@ -2,26 +2,37 @@ body{
     background-color: antiquewhite;
 }
 
-div#title{
+#title{
     font-family: 'Brush Script MT';
     padding:10px 20px;
     text-align: center;
 }
 
-img{
-    width: 500px;
+.floatingLeft{
+    width: 380px;
     float: left;
     margin-right: 10px;
     border-radius: 10px;
     text-shadow: 2px;
 }
 
-p.we{
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10px;
+}
+
+p.paragraphRightFloat{
     margin-right: 5px;
     text-align: justify;
     margin-bottom: 150px;
 }
 
+.coloredList{
+    color: blueviolet;
+}
 
 button{
     background-color: rgb(221, 122, 122);
